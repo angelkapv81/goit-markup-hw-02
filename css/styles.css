@@ -36,7 +36,7 @@ color: var(--title-color);
 } */
 
 /* site nav */
-.link: {
+.link {
   color: var(--title-color);
 }
 .link:hover,
