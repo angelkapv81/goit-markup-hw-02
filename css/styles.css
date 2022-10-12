@@ -30,7 +30,7 @@ ul {
   --background-color-hero: #2F303A;
 
   /* fon doka color*/
-  --fon-color:  #F5F4FA;
+  --bg-color:  #F5F4FA;
 }
 .site-nav .link.current {
   color: var(--accent-color)
@@ -82,7 +82,7 @@ line-height: 1,19;
 
 .headline {
 color: var(--title-color);
-background-color: var(--fon-color);
+background-color: var(--bg-color);
 font-weight: 700;
 font-size: 36px;
 line-height: 1,17;
@@ -153,7 +153,7 @@ line-height: 1,71;
 }
 .button-portfolio {
 color: var(--title-color)
-background-color: var(--fon-color)
+background-color: var(--bg-color)
 font-weight: 500;
 font-size: 16px;
 line-height: 1,63;
